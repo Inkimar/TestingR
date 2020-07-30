@@ -1,0 +1,10 @@
+library(shiny) 
+# This is most usefulwhen building small demonstrations or examples for other users
+
+server <- function(input, output) {   #contents of server.R file 
+} 
+ui <- fluidPage( # or other layout function   
+  # contents of ui.R file 
+) 
+
+shinyApp(ui = ui, server = server)

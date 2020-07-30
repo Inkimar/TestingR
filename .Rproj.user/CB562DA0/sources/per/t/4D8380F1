@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1596130004572.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2694248138",
+    "id" : "4D8380F1",
+    "lastKnownWriteTime" : 1596136274,
+    "last_content_update" : 1596136274065,
+    "path" : "~/repos/20200730-R/ui.R",
+    "project_path" : "ui.R",
+    "properties" : {
+        "cursorPosition" : "13,16",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
